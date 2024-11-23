@@ -1,6 +1,10 @@
-def print_hi(name):
-    print(f'HELLO, {name}')
-
-if __name__ == '__main__':
-    print_hi('WORLD')
-#
+a = 3
+print(type(a))
+a = 3.5
+print(type(a))
+a = 'qwerty'
+print(type(a))
+a = True
+print(type(a))
+a = '123'
+print(type(a))
